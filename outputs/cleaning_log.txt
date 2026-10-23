@@ -1,0 +1,19 @@
+Raw shape: 1,512 rows x 23 columns
+
+[1] Missing values before cleaning:
+MonthlyIncome       28
+DistanceFromHome    18
+
+[2] Removed 12 duplicate rows
+
+[3] Standardised text labels. Department variants: 12 -> 5; Attrition values: ['No', 'Yes']
+
+[4] Impossible ages (outside 18-65) set to missing: 3
+
+[5] Imputed MonthlyIncome (28, median by JobLevel), DistanceFromHome (18, overall median), Age (3, median by JobLevel)
+
+[6] Fixed rows where YearsAtCompany > TotalWorkingYears: 0
+
+[7] MonthlyIncome outliers above IQR fence (20,590): 0 - kept, they are plausible senior salaries
+
+Clean shape: 1,500 rows x 24 columns | overall attrition rate: 15.1%

@@ -1,0 +1,6 @@
+department,headcount,leavers,attrition_rate_pct,avg_monthly_income
+Sales,413,85,20.6,9299.0
+Finance,174,31,17.8,10357.0
+IT,227,28,12.3,10123.0
+Research & Development,576,70,12.2,9613.0
+Human Resources,110,12,10.9,9925.0

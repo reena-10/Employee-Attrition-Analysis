@@ -1,0 +1,13 @@
+department,job_role,headcount,attrition_rate_pct
+Sales,Sales Executive,177,25.4
+Finance,Financial Analyst,67,22.4
+Sales,Sales Representative,182,21.4
+Finance,Accountant,77,20.8
+IT,Systems Analyst,94,17.0
+Research & Development,Laboratory Technician,250,15.6
+Human Resources,HR Executive,87,12.6
+Research & Development,Research Scientist,238,11.8
+IT,Software Engineer,106,11.3
+Research & Development,Research Director,88,3.4
+Sales,Sales Manager,54,1.9
+Finance,Finance Manager,30,0.0

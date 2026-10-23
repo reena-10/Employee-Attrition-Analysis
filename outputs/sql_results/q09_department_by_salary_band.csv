@@ -1,0 +1,13 @@
+department,salary_tier,headcount,attrition_rate_pct
+Finance,Mid (5k-10k),82,29.3
+Finance,High (10k+),90,7.8
+Human Resources,Mid (5k-10k),50,8.0
+Human Resources,High (10k+),52,13.5
+IT,Mid (5k-10k),117,17.1
+IT,High (10k+),108,6.5
+Research & Development,Low (<5k),35,25.7
+Research & Development,Mid (5k-10k),298,16.1
+Research & Development,High (10k+),243,5.3
+Sales,Low (<5k),40,37.5
+Sales,Mid (5k-10k),215,26.5
+Sales,High (10k+),158,8.2

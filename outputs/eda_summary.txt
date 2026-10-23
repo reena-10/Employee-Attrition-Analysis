@@ -1,0 +1,102 @@
+Rows: 1,500 | Columns: 30
+Overall attrition rate: 15.1% (226 leavers)
+
+Numeric summary:
+          Age  MonthlyIncome  TotalWorkingYears  YearsAtCompany  DistanceFromHome
+count  1500.0         1500.0             1500.0          1500.0            1500.0
+mean     36.9         9713.1               10.7             5.0              15.0
+std       8.8         3690.2                6.7             3.5               8.2
+min      18.0         3440.0                0.0             0.0               1.0
+25%      31.0         6340.0                6.0             2.0               8.0
+50%      37.0         9215.0               10.0             4.0              15.0
+75%      43.0        12040.0               15.0             7.0              22.0
+max      60.0        20520.0               38.0            20.0              29.0
+
+Attrition by Department:
+                        headcount  leavers  rate
+Department                                      
+Finance                       174       31  17.8
+Human Resources               110       12  10.9
+IT                            227       28  12.3
+Research & Development        576       70  12.2
+Sales                         413       85  20.6
+
+Attrition by AgeGroup:
+          headcount  leavers  rate
+AgeGroup                          
+18-24           132       45  34.1
+25-34           448       89  19.9
+35-44           639       75  11.7
+45-54           246       14   5.7
+55+              35        3   8.6
+
+Attrition by SalaryBand:
+            headcount  leavers  rate
+SalaryBand                          
+<5k                87       26  29.9
+5-7k              367       92  25.1
+7-9k              258       44  17.1
+9-12k             406       44  10.8
+12k+              382       20   5.2
+
+Attrition by ExperienceBand:
+                headcount  leavers  rate
+ExperienceBand                          
+0-2 yrs               149       51  34.2
+3-5 yrs               200       48  24.0
+6-10 yrs              466       76  16.3
+11-20 yrs             559       48   8.6
+20+ yrs               126        3   2.4
+
+Attrition by TenureBand:
+            headcount  leavers  rate
+TenureBand                          
+0-1 yrs           193       52  26.9
+2-3 yrs           358       74  20.7
+4-6 yrs           530       60  11.3
+7-10 yrs          309       37  12.0
+10+ yrs           110        3   2.7
+
+Attrition by OverTime:
+          headcount  leavers  rate
+OverTime                          
+No             1094      122  11.2
+Yes             406      104  25.6
+
+Attrition by Travel:
+                   headcount  leavers  rate
+Travel                                     
+Non-Travel               144       20  13.9
+Travel_Rarely           1074      156  14.5
+Travel_Frequently        282       50  17.7
+
+Attrition by MaritalStatus:
+               headcount  leavers  rate
+MaritalStatus                          
+Divorced             322       35  10.9
+Married              682       99  14.5
+Single               496       92  18.5
+
+Attrition by StockOptionLevel:
+                  headcount  leavers  rate
+StockOptionLevel                          
+0                       619      112  18.1
+1                       606       80  13.2
+2                       175       20  11.4
+3                       100       14  14.0
+
+Attrition by JobSatisfaction:
+                 headcount  leavers  rate
+JobSatisfaction                          
+1                      295       61  20.7
+2                      276       50  18.1
+3                      462       60  13.0
+4                      467       55  11.8
+
+Attrition by WorkLifeBalance:
+                 headcount  leavers  rate
+WorkLifeBalance                          
+1                       88       18  20.5
+2                      350       61  17.4
+3                      909      129  14.2
+4                      153       18  11.8

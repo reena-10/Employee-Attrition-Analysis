@@ -1,0 +1,14 @@
+Overall attrition: 15.1% (226 of 1,500)
+Overtime: 25.6% vs 11.2% without (2.3x)
+Age 18-24: 34.1% | Age 45-54: 5.7%
+Income < 7k: 26.0% | Income >= 12k: 5.2%
+Experience 0-2 yrs: 34.2% | 20+ yrs: 2.4%
+Tenure <= 3 yrs: 22.9% | > 3 yrs: 10.5%
+Sales dept: 20.6% | rest of company: 13.0%
+Single: 18.5% | Married: 14.5%
+No stock options: 18.1% | with options: 12.9%
+Low job satisfaction (1-2): 19.4% | high (3-4): 12.4%
+Share of all leavers who are under 35: 59%
+Share of all leavers working overtime: 46% (overtime is 27% of headcount)
+Risk flags 0 / 1 / 2 / 3+: 4.6% / 14.4% / 26.8% / 47.0%
+Top-5 correlates of attrition: Monthly income, Total experience, Job level, Age, Works overtime

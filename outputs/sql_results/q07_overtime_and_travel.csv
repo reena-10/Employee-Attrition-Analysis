@@ -1,0 +1,7 @@
+overtime,business_travel,headcount,attrition_rate_pct
+Yes,Travel_Frequently,71,31.0
+Yes,Travel_Rarely,285,24.6
+Yes,Non-Travel,50,24.0
+No,Travel_Frequently,211,13.3
+No,Travel_Rarely,789,10.9
+No,Non-Travel,94,8.5
